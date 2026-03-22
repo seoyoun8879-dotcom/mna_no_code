@@ -384,6 +384,10 @@ body::-webkit-scrollbar {
   overflow: auto;
 }
 
+.bold-text {
+  font-weight: bold;
+}
+
 .frame .group-8::-webkit-scrollbar {
   display: none;
 }
