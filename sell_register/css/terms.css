@@ -401,6 +401,6 @@ body::-webkit-scrollbar {
   font-weight: 400;
   color: #242424e6;
   font-size: 15px;
-  letter-spacing: 0;
+  letter-spacing: -0.4px;
   line-height: 27px;
 }
