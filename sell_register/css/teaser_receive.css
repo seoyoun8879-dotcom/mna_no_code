@@ -51,7 +51,7 @@ body::-webkit-scrollbar {
   height: 10.76%;
   top: 10.37%;
   left: 6.61%;
-  font-family: "Inter-Medium", Helvetica;
+  font-family: "Inter";
   font-weight: 500;
   color: #ffffff;
   font-size: 17px;
@@ -83,7 +83,7 @@ body::-webkit-scrollbar {
   height: 100%;
   top: 0;
   left: 0;
-  font-family: "Inter-Regular", Helvetica;
+  font-family: "Inter";
   font-weight: 400;
   color: #ffffff;
   font-size: 14px;
@@ -232,7 +232,7 @@ body::-webkit-scrollbar {
   top: 9px;
   left: 15px;
   width: 93px;
-  font-family: "Inter-Regular", Helvetica;
+  font-family: "Inter";
   font-weight: 400;
   color: #242424e6;
   font-size: 13px;
@@ -379,7 +379,7 @@ body::-webkit-scrollbar {
   height: 32.04%;
   top: 67.96%;
   left: 0;
-  font-family: "Inter-Regular", Helvetica;
+  font-family: "Inter";
   font-weight: 400;
   color: #000000;
   font-size: 17px;
