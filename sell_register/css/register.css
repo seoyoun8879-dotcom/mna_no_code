@@ -383,11 +383,9 @@
   justify-content: center;
   position: relative;
   border-radius: 12px;
-  background: conic-gradient(from 180deg at -49% 50%,
-      rgba(37, 37, 37, 0.9) 0%,
-      rgba(88, 87, 87, 0.9) 50%,
-      rgba(113, 113, 113, 0.9) 75%,
-      rgba(139, 138, 138, 0.9) 100%);
+  background: conic-gradient(from 180deg at 50% 80%,
+      #252525 0%,
+      #8B8A8A 100%);
 }
 
 .frame .text-wrapper-7 {
