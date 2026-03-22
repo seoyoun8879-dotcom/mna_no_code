@@ -1,0 +1,364 @@
+.frame {
+  display: flex;
+  flex-direction: column;
+  height: 945px;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  background-color: #000000;
+}
+
+.frame .div {
+  display: flex;
+  height: 107px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 123px 0px 215px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: #0c070a;
+}
+
+.frame .element {
+  position: relative;
+  width: 176.86px;
+  height: 19.12px;
+}
+
+.frame .div-2 {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .div-3 {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .div-wrapper {
+  display: inline-flex;
+  height: 39px;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 17px;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 50px;
+  background: linear-gradient(90deg,
+      rgba(142, 118, 240, 0) 0%,
+      rgba(82, 68, 138, 0) 100%);
+}
+
+.frame .text-wrapper {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .m-a-wrapper {
+  display: inline-flex;
+  height: 39px;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 17px;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 50px;
+  background: linear-gradient(90deg,
+      rgba(142, 118, 240, 1) 0%,
+      rgba(82, 68, 138, 1) 100%);
+}
+
+.frame .img {
+  position: relative;
+  width: 1px;
+  height: 12px;
+  background-color: #fff;
+}
+
+.frame .div-4 {
+  display: inline-flex;
+  align-items: center;
+  gap: 34px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .div-wrapper-2 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 0px 0px 0px 17px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: normal;
+  white-space: nowrap;
+  color: #ffffff;
+  letter-spacing: 0;
+}
+
+.frame .div-5 {
+  display: inline-flex;
+  align-items: center;
+  gap: 16px;
+  padding: 0px 12px 0px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .element-2 {
+  position: relative;
+  width: 26px;
+  height: 31px;
+}
+
+.frame .text-wrapper-3 {
+  position: relative;
+  width: 73px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 19px;
+}
+
+.frame .union {
+  position: relative;
+  width: 33.67px;
+  height: 32.78px;
+}
+
+.frame .div-6 {
+  display: inline-flex;
+  align-items: center;
+  gap: 25px;
+  position: absolute;
+  left: 0;
+  bottom: 134px;
+}
+
+.frame .frame-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 1354px;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 94px 111px 94px 0px;
+  position: relative;
+  border-radius: 0px 16px 16px 0px;
+  background: conic-gradient(from 270deg at 82% 50%,
+      rgba(0, 0, 0, 1) 0%,
+      rgba(102, 102, 102, 1) 100%);
+}
+
+.frame .div-7 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 86px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame .div-wrapper-3 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 0px 0px 42px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .text-wrapper-4 {
+  position: relative;
+  width: 101px;
+  margin-top: -1.00px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  font-size: 15px;
+  text-align: center;
+  line-height: normal;
+  color: #ffffff;
+  letter-spacing: 0;
+}
+
+.frame .div-8 {
+  display: flex;
+  flex-direction: column;
+  width: 74.68px;
+  height: 104px;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+}
+
+.frame .union-2 {
+  position: relative;
+  width: 65.68px;
+  height: 60px;
+}
+
+.frame .text-wrapper-5 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  font-size: 20px;
+  text-align: center;
+  line-height: 24px;
+  color: #ffffff;
+  letter-spacing: 0;
+}
+
+.frame .frame-wrapper-2 {
+  display: flex;
+  width: 398px;
+  height: 292px;
+  gap: 55px;
+  padding: 0px 70px 0px 0px;
+  border-radius: 16px;
+  background: conic-gradient(from 270deg at 52% 50%,
+      rgba(0, 0, 0, 1) 0%,
+      rgba(102, 102, 102, 1) 100%);
+  align-items: center;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.frame .div-9 {
+  display: inline-flex;
+  gap: 68px;
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.frame .text-wrapper-6 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  font-size: 15px;
+  text-align: center;
+  line-height: normal;
+  white-space: nowrap;
+  color: #ffffff;
+  letter-spacing: 0;
+}
+
+.frame .div-10 {
+  display: flex;
+  flex-direction: column;
+  width: 74px;
+  height: 94.77px;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+}
+
+.frame .union-3 {
+  position: relative;
+  width: 60.51px;
+  height: 50.77px;
+}
+
+.frame .text-wrapper-7 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .p {
+  position: absolute;
+  right: 142px;
+  bottom: 90px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: right;
+  line-height: normal;
+  white-space: nowrap;
+  color: #ffffff;
+  letter-spacing: 0;
+}
+
+.frame .div-11 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  position: absolute;
+  right: 324px;
+  bottom: 486px;
+}
+
+.frame .upload-your-m-a-deal {
+  position: relative;
+  width: 447px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 78px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .div-wrapper-4 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 14px 0px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .text-wrapper-8 {
+  position: relative;
+  width: 335px;
+  margin-top: -1.00px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  font-size: 18px;
+  text-align: center;
+  line-height: normal;
+  color: #ffffff;
+  letter-spacing: 0;
+}

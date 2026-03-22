@@ -1,0 +1,722 @@
+body::-webkit-scrollbar {
+  display: none;
+}
+
+.frame {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 100%;
+  min-width: 1919.95px;
+  height: 986.64px;
+  position: relative;
+}
+
+.frame .group {
+  position: absolute;
+  width: 136px;
+  height: 25px;
+  top: 89px;
+  left: 181px;
+}
+
+.frame .div-wrapper {
+  position: relative;
+  width: 101.47%;
+  height: 100%;
+}
+
+.frame .text-wrapper {
+  position: absolute;
+  width: 98.55%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  font-family: "Noto Sans CJK KR-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 18.7px;
+  letter-spacing: 0;
+  line-height: 26.7px;
+  white-space: nowrap;
+}
+
+.frame .div {
+  position: absolute;
+  width: 11.77%;
+  height: 6.49%;
+  top: 7.30%;
+  left: 4.86%;
+}
+
+.frame .element {
+  position: absolute;
+  width: 66px;
+  height: 64px;
+  top: 0;
+  left: 0;
+}
+
+.frame .text-wrapper-2 {
+  position: absolute;
+  width: 60.18%;
+  height: 42.19%;
+  top: 27.10%;
+  left: 38.94%;
+  font-family: "Inter";
+  font-weight: 500;
+  color: #242424e6;
+  font-size: 19px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.frame .group-2 {
+  position: absolute;
+  width: 28.33%;
+  height: 15.88%;
+  top: 43.78%;
+  left: 15.78%;
+}
+
+.frame .p {
+  width: 99.26%;
+  height: 55.53%;
+  top: 44.47%;
+  left: 0;
+  font-family: "Inter";
+  font-weight: 400;
+  color: #000000;
+  font-size: 17px;
+  line-height: 29px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-3 {
+  width: 80.64%;
+  height: 25.53%;
+  top: 0;
+  left: 0;
+  font-family: "Inter";
+  font-weight: 700;
+  color: #000000;
+  font-size: 32px;
+  line-height: 40.0px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .element-2 {
+  position: absolute;
+  width: 0;
+  height: 0;
+  top: 4.56%;
+  left: 96.62%;
+}
+
+.frame .img {
+  position: absolute;
+  width: 103.70%;
+  height: 103.74%;
+  top: -3.74%;
+  left: -3.70%;
+}
+
+.frame .element-3 {
+  position: absolute;
+  width: 103.74%;
+  height: 103.74%;
+  top: -3.74%;
+  left: -3.74%;
+}
+
+.frame .group-wrapper {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0;
+  display: flex;
+  padding: 208px 108.7px;
+  justify-content: flex-end;
+  align-items: flex-start;
+  min-width: 1034px;
+  background-color: #0b0a0aeb;
+}
+
+.frame .group-3 {
+  width: 812px;
+  height: 569px;
+  position: relative;
+}
+
+.frame .group-4 {
+  position: absolute;
+  width: 100.20%;
+  height: 44.03%;
+  top: 55.97%;
+  left: 0;
+}
+
+.frame .text-wrapper-4 {
+  position: absolute;
+  width: 6.88%;
+  height: 10.77%;
+  top: 0;
+  left: 90.58%;
+  font-family: "Inter";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.frame .group-5 {
+  position: absolute;
+  width: 96.48%;
+  height: 16.11%;
+  top: 17.40%;
+  left: 3.52%;
+}
+
+.frame .text-wrapper-5 {
+  position: absolute;
+  top: 9.17%;
+  left: 0;
+  font-family: "Inter";
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .group-6 {
+  position: absolute;
+  top: 1px;
+  left: 581px;
+  width: 205px;
+  height: 40px;
+}
+
+.frame .rectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 203px;
+  height: 40px;
+  background-color: #fe7f00;
+}
+
+.frame .text-wrapper-6 {
+  width: 64.17%;
+  height: 67.50%;
+  top: 15.72%;
+  left: 17.43%;
+  font-family: "Inter";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  line-height: 27px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .group-7 {
+  position: absolute;
+  top: 0;
+  left: 371px;
+  width: 205px;
+  height: 40px;
+}
+
+.frame .text-wrapper-7 {
+  width: 64.17%;
+  height: 66.88%;
+  top: 15.81%;
+  left: 17.43%;
+  font-family: "Inter";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  line-height: 27px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .group-8 {
+  position: absolute;
+  top: 0;
+  left: 162px;
+  width: 205px;
+  height: 40px;
+}
+
+.frame .group-9 {
+  position: absolute;
+  top: 84px;
+  left: 0;
+  width: 812px;
+  height: 52px;
+  background-color: #000000;
+}
+
+.frame .group-10 {
+  position: relative;
+  width: 90.07%;
+  height: 55.14%;
+  top: 25.02%;
+  left: 4.68%;
+}
+
+.frame .text-wrapper-8 {
+  width: 12.22%;
+  height: 94.17%;
+  top: 5.83%;
+  left: 0;
+  font-family: "Inter";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  line-height: 27px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-9 {
+  width: 14.77%;
+  height: 94.17%;
+  top: 0;
+  left: 27.26%;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  line-height: 27px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-10 {
+  width: 14.77%;
+  height: 94.17%;
+  top: 5.80%;
+  left: 55.88%;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  line-height: 27px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-11 {
+  width: 14.77%;
+  height: 94.17%;
+  top: 5.80%;
+  left: 84.14%;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  line-height: 27px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .group-11 {
+  position: absolute;
+  top: 141px;
+  left: 0;
+  width: 812px;
+  height: 52px;
+  background-color: #000000;
+}
+
+.frame .group-12 {
+  position: relative;
+  width: 90.07%;
+  height: 54.51%;
+  top: 25.65%;
+  left: 4.68%;
+}
+
+.frame .text-wrapper-12 {
+  width: 17.50%;
+  height: 95.26%;
+  top: 4.74%;
+  left: 0;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  line-height: 27px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-13 {
+  width: 14.77%;
+  height: 95.26%;
+  top: 0;
+  left: 27.26%;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  line-height: 27px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-14 {
+  width: 14.77%;
+  height: 95.26%;
+  top: 4.71%;
+  left: 55.88%;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  line-height: 27px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-15 {
+  width: 14.77%;
+  height: 95.26%;
+  top: 4.71%;
+  left: 84.14%;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  line-height: 27px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .group-13 {
+  position: absolute;
+  top: 199px;
+  left: 0;
+  width: 812px;
+  height: 52px;
+  background-color: #000000;
+}
+
+.frame .group-14 {
+  position: relative;
+  width: 93.40%;
+  height: 54.49%;
+  top: 25.65%;
+  left: 4.68%;
+}
+
+.frame .text-wrapper-16 {
+  width: 18.99%;
+  height: 95.29%;
+  top: 4.71%;
+  left: 0;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  line-height: 27px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-17 {
+  width: 14.24%;
+  height: 95.29%;
+  top: 0;
+  left: 26.28%;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  line-height: 27px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-18 {
+  width: 14.24%;
+  height: 95.29%;
+  top: 4.69%;
+  left: 53.89%;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  line-height: 27px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-19 {
+  width: 20.57%;
+  height: 95.29%;
+  top: 2.40%;
+  left: 78.37%;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  line-height: 27px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .group-15 {
+  position: absolute;
+  width: 100.20%;
+  height: 44.03%;
+  top: 0;
+  left: 0;
+}
+
+.frame .group-16 {
+  position: absolute;
+  width: 96.44%;
+  height: 16.11%;
+  top: 17.40%;
+  left: 3.56%;
+}
+
+.frame .text-wrapper-20 {
+  position: absolute;
+  top: 18.27%;
+  left: 0;
+  font-family: "Inter";
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: 17px;
+  white-space: nowrap;
+}
+
+.frame .group-17 {
+  position: absolute;
+  top: 1px;
+  left: 580px;
+  width: 205px;
+  height: 40px;
+}
+
+.frame .group-18 {
+  position: relative;
+  width: 89.98%;
+  height: 54.49%;
+  top: 25.65%;
+  left: 4.76%;
+}
+
+.frame .text-wrapper-21 {
+  width: 12.23%;
+  height: 95.29%;
+  top: 4.71%;
+  left: 0;
+  font-family: "Inter";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  line-height: 27px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-22 {
+  width: 14.78%;
+  height: 95.29%;
+  top: 0;
+  left: 27.19%;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  line-height: 27px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-23 {
+  width: 14.78%;
+  height: 95.29%;
+  top: 4.71%;
+  left: 55.84%;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  line-height: 27px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-24 {
+  width: 14.78%;
+  height: 95.29%;
+  top: 4.71%;
+  left: 84.12%;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  line-height: 27px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .group-19 {
+  position: relative;
+  width: 89.98%;
+  height: 55.14%;
+  top: 25.00%;
+  left: 4.76%;
+}
+
+.frame .text-wrapper-25 {
+  width: 17.52%;
+  height: 94.17%;
+  top: 5.83%;
+  left: 0;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  line-height: 27px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-26 {
+  width: 14.78%;
+  height: 94.17%;
+  top: 5.83%;
+  left: 55.84%;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  line-height: 27px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-27 {
+  width: 14.78%;
+  height: 94.17%;
+  top: 5.83%;
+  left: 84.12%;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  line-height: 27px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-28 {
+  width: 14.78%;
+  height: 94.17%;
+  top: 0;
+  left: 27.19%;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  line-height: 27px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .group-20 {
+  position: relative;
+  width: 93.31%;
+  height: 54.46%;
+  top: 25.66%;
+  left: 4.76%;
+}
+
+.frame .text-wrapper-29 {
+  width: 19.00%;
+  height: 95.34%;
+  top: 4.66%;
+  left: 0;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  line-height: 27px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-30 {
+  width: 14.25%;
+  height: 95.34%;
+  top: 4.66%;
+  left: 53.85%;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  line-height: 27px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-31 {
+  width: 20.59%;
+  height: 95.34%;
+  top: 2.37%;
+  left: 78.36%;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  line-height: 27px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-32 {
+  width: 14.25%;
+  height: 95.34%;
+  top: 0;
+  left: 26.18%;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  line-height: 27px;
+  position: absolute;
+  letter-spacing: 0;
+}

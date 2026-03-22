@@ -1,0 +1,261 @@
+body::-webkit-scrollbar {
+  display: none;
+}
+
+.frame {
+  background-color: #131313;
+  width: 100%;
+  min-width: 1920px;
+  height: 985px;
+  position: relative;
+}
+
+.frame .group {
+  position: absolute;
+  width: 9.69%;
+  height: 6.60%;
+  top: 6.60%;
+  left: 4.69%;
+}
+
+.frame .element {
+  position: absolute;
+  width: 65px;
+  top: 0;
+  left: 0;
+}
+
+.frame .text-wrapper {
+  width: 54.84%;
+  height: 30.77%;
+  top: 35.38%;
+  left: 44.09%;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  color: #ffffff;
+}
+
+.frame .div {
+  position: absolute;
+  width: 67.19%;
+  top: 186px;
+  left: 19.38%;
+  height: 685px;
+}
+
+.frame .image {
+  position: absolute;
+  width: 362px;
+  top: 0;
+  left: 36.28%;
+  object-fit: cover;
+}
+
+.frame .group-2 {
+  position: absolute;
+  width: 431px;
+  height: 506px;
+  top: 58px;
+  left: 0;
+}
+
+.frame .group-3 {
+  position: absolute;
+  width: 100%;
+  height: 43.28%;
+  top: 0;
+  left: 0;
+}
+
+.frame .group-4 {
+  position: absolute;
+  width: 71.46%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+.frame .p {
+  width: 99.35%;
+  height: 76.71%;
+  top: 23.29%;
+  left: 0;
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  color: #ffffff;
+}
+
+.frame .group-5 {
+  position: absolute;
+  width: 100.65%;
+  height: 11.87%;
+  top: 0;
+  left: 0;
+}
+
+.frame .text-wrapper-2 {
+  position: absolute;
+  width: 34.84%;
+  height: 76.92%;
+  top: 0;
+  left: 0;
+  font-family: "Inter";
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.frame .text-wrapper-3 {
+  position: absolute;
+  width: 20.00%;
+  height: 100%;
+  top: 0;
+  left: 78.71%;
+  font-family: "Inter";
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 35px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.frame .line {
+  position: absolute;
+  top: 12px;
+  left: 122px;
+  width: 122px;
+  height: 1px;
+  background-color: #fff;
+}
+
+.frame .img {
+  position: absolute;
+  width: 125px;
+  height: 1px;
+  top: 92.47%;
+  left: 71.00%;
+  background-color: #06E9F9;
+}
+
+.frame .group-6 {
+  position: absolute;
+  width: 100%;
+  height: 43.28%;
+  top: 56.72%;
+  left: 0;
+}
+
+.frame .div-2 {
+  position: absolute;
+  width: 99.35%;
+  height: 76.71%;
+  top: 23.29%;
+  left: 0;
+  font-family: "Inter";
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 28px;
+}
+
+.frame .span {
+  letter-spacing: 0.04px;
+}
+
+.frame .text-wrapper-4 {
+  letter-spacing: 0.04px;
+  text-decoration: underline;
+}
+
+.frame .text-wrapper-5 {
+  letter-spacing: 0.02px;
+}
+
+.frame .text-wrapper-6 {
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-7 {
+  letter-spacing: 0;
+  text-decoration: underline;
+}
+
+.frame .element-2 {
+  position: absolute;
+  width: 125px;
+  height: 1px;
+  top: 93.84%;
+  left: 71.00%;
+  background-color: #D172FF;
+}
+
+.frame .group-7 {
+  position: absolute;
+  width: 443px;
+  height: 506px;
+  top: 179px;
+  left: 847px;
+}
+
+.frame .group-wrapper {
+  position: absolute;
+  width: 306px;
+  height: 219px;
+  top: 0;
+  left: 137px;
+  display: flex;
+}
+
+.frame .group-8 {
+  flex: 1;
+  width: 308px;
+  position: relative;
+}
+
+.frame .element-3 {
+  position: absolute;
+  width: 125px;
+  height: 1px;
+  top: 93.84%;
+  left: 0;
+  background-color: #0468FE;
+}
+
+.frame .group-9 {
+  position: absolute;
+  width: 69.53%;
+  height: 100%;
+  top: 0;
+  left: 30.93%;
+}
+
+.frame .text-wrapper-8 {
+  letter-spacing: 0.10px;
+}
+
+.frame .element-4 {
+  position: absolute;
+  width: 125px;
+  height: 1px;
+  top: 93.38%;
+  left: 0;
+  background-color: #A103FB;
+}
+
+.frame .element-5 {
+  position: absolute;
+  width: 18px;
+  top: 44px;
+  right: 47px;
+}
