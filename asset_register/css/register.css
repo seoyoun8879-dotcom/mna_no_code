@@ -774,21 +774,23 @@
   height: 13.61%;
   top: 0;
   left: 84.01%;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  cursor: pointer;
 }
 
 .frame .union-4 {
-  position: absolute;
-  top: 2px;
-  left: 0;
   width: 18px;
+  transition: all 0.6s ease;
+}
+
+.frame .group-22:hover .union-4 {
+  transform: translateX(5px);
 }
 
 .frame .text-wrapper-24 {
-  position: absolute;
-  width: 61.90%;
-  height: 100%;
-  top: 0;
-  left: 35.71%;
   font-family: "Inter";
   font-weight: 400;
   color: #000000;
@@ -833,10 +835,17 @@
 
 .frame .group-27 {
   position: absolute;
-  width: 13.04%;
-  height: 76.67%;
   top: 23.33%;
   left: 87.27%;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  cursor: pointer;
+}
+
+.frame .group-27:hover .union-4 {
+  transform: translateX(5px);
 }
 
 .frame .group-28 {
@@ -1646,41 +1655,55 @@
   position: absolute;
   top: 0;
   left: 15px;
-  width: 212px;
-  height: 23px;
   display: flex;
+  align-items: center;
   gap: 17px;
 }
 
-.frame .rectangle-9 {
+/* .frame .rectangle-9 {
   margin-top: 4px;
   width: 16px;
   height: 16px;
   border: 1px solid;
   border-color: #817f7f;
+} */
+
+.container {
+  cursor: pointer;
 }
 
-.frame .group-69 {
-  width: 179.37px;
-  height: 23px;
-  display: flex;
+.container input {
+  display: none;
 }
 
-.frame .group-70 {
-  width: 181.37px;
-  flex: 1;
-  display: flex;
+.container svg {
+  overflow: visible;
+  width: 16px;
+}
+
+.path {
+  fill: none;
+  stroke: #817F7F;
+  stroke-width: 6;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke-dasharray 0.5s ease, stroke-dashoffset 0.5s ease;
+  stroke-dasharray: 241 9999999;
+  stroke-dashoffset: 0;
+}
+
+.container input:checked~svg .path {
+  stroke-dasharray: 70.5096664428711 9999999;
+  stroke-dashoffset: -262.2723388671875;
 }
 
 .frame .text-wrapper-51 {
   flex: 1;
-  width: 179.37px;
   font-family: "Inter";
   font-weight: 500;
   color: #000000;
   font-size: 18.7px;
   letter-spacing: 0;
-  line-height: 23px;
 }
 
 .frame .group-71 {
@@ -2225,6 +2248,7 @@
   border-radius: 50px;
   overflow: hidden;
   box-shadow: 4px 4px 5px #00000040;
+  cursor: pointer;
 }
 
 .frame .text-wrapper-66 {
@@ -2242,6 +2266,11 @@
   position: relative;
   width: 18.44px;
   height: 16.75px;
+  transition: all 0.7s ease;
+}
+
+.frame .union-6:hover {
+  transform: rotate(-35deg);
 }
 
 .frame .div-20 {

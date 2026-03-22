@@ -335,12 +335,18 @@
   gap: 11px;
   position: relative;
   flex: 0 0 auto;
+  cursor: pointer;
 }
 
 .frame .union-2 {
   position: relative;
   width: 19.47px;
   height: 18.11px;
+  transition: all 0.6s ease;
+}
+
+.frame .div-12:hover .union-2 {
+  transform: translateX(5px);
 }
 
 .frame .text-wrapper-6 {
@@ -1097,6 +1103,7 @@
   height: 3.76%;
   top: 10.47%;
   left: 72.67%;
+  cursor: pointer;
 }
 
 .frame .group-21 {
@@ -1107,6 +1114,11 @@
   height: 17px;
   display: flex;
   flex-direction: column;
+  transition: all 0.6s ease;
+}
+
+.frame .group-20:hover .group-21 {
+  transform: translateX(5px);
 }
 
 .frame .text-wrapper-29 {
@@ -1161,9 +1173,8 @@
 .checkbox-wrapper .cbx span:first-child svg {
   position: absolute;
   z-index: 1;
-  top: 50%;
+  top: 58%;
   left: 50%;
-  transform: translate(-50%, -50%);
   fill: none;
   stroke: white;
   stroke-width: 2;
@@ -1173,7 +1184,7 @@
   stroke-dashoffset: 16px;
   transition: all 0.3s ease;
   transition-delay: 0.1s;
-  transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0) translate(-50%, -50%);
 }
 
 .checkbox-wrapper .cbx span:first-child:before {
@@ -1190,18 +1201,6 @@
 
 .checkbox-wrapper .cbx span:last-child {
   font-size: 14px;
-}
-
-.checkbox-wrapper .cbx span:last-child:after {
-  content: "";
-  position: absolute;
-  top: 8px;
-  left: 0;
-  height: 1px;
-  width: 100%;
-  background: #b9b8c3;
-  transform-origin: 0 0;
-  transform: scaleX(0);
 }
 
 .checkbox-wrapper .cbx:hover span:first-child {
@@ -1222,16 +1221,6 @@
   transform: scale(2.2);
   opacity: 0;
   transition: all 0.6s ease;
-}
-
-.checkbox-wrapper .inp-cbx:checked+.cbx span:last-child {
-  color: #b9b8c3;
-  transition: all 0.3s ease;
-}
-
-.checkbox-wrapper .inp-cbx:checked+.cbx span:last-child:after {
-  transform: scaleX(1);
-  transition: all 0.3s ease;
 }
 
 @keyframes check-15 {
@@ -1311,22 +1300,27 @@
   line-height: 26px;
 }
 
-.frame .group-29 {
+.show-example {
   position: absolute;
   top: 133px;
   left: 666px;
-  width: 18px;
-  height: 17px;
   display: flex;
-  flex-direction: column;
+  align-items: center;
+  gap: 11px;
+  cursor: pointer;
+  z-index: 1;
+}
+
+.frame .group-29 {
+  width: 18px;
+  transition: all 0.6s ease;
+}
+
+.show-example:hover .group-29 {
+  transform: translateX(5px);
 }
 
 .frame .text-wrapper-34 {
-  position: absolute;
-  width: 5.84%;
-  height: 6.39%;
-  top: 36.39%;
-  left: 78.20%;
   font-family: "Inter";
   font-weight: 400;
   color: #000000;
@@ -2019,7 +2013,6 @@
   color: #000000;
   font-size: 18.7px;
   letter-spacing: 0;
-  line-height: 23px;
 }
 
 .frame .group-44 {
@@ -2537,6 +2530,7 @@
   overflow: hidden;
   box-shadow: 4px 4px 5px #00000040;
   border: none;
+  cursor: pointer;
 }
 
 .frame .text-wrapper-78 {
@@ -2554,6 +2548,11 @@
   position: relative;
   width: 18.44px;
   height: 16.75px;
+  transition: all 0.7s ease;
+}
+
+.frame .union-4:hover {
+  transform: rotate(-35deg);
 }
 
 .frame .div-19 {
@@ -2569,6 +2568,7 @@
   overflow: hidden;
   box-shadow: 4px 4px 5px #00000040;
   border: none;
+  cursor: pointer;
 }
 
 .frame .element-7 {
