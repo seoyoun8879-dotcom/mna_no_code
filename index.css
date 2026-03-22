@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 70px;
+  background-color: #000;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  font-size: 20px;
+  color: #fff;
+  transition: all 0.2s ease;
+}
+
+a:hover {
+  color: #00b0f0;
+}
