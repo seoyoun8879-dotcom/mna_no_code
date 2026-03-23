@@ -288,6 +288,7 @@
   width: 1171px;
   height: 237px;
   background-color: #ffffff;
+  border: 3px solid #00b0f0;
   border-radius: 21px;
 }
 
@@ -484,6 +485,7 @@
   justify-content: center;
   position: relative;
   background-color: #ffffff;
+  border: 3px solid #00b0f0;
   border-radius: 21px;
 }
 

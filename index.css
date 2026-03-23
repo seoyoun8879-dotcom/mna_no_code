@@ -8,24 +8,33 @@ body {
 }
 
 .main {
-  display: flex;
-  gap: 100px;
+  display: grid;
+  grid-template-columns: repeat(5, auto);
+  column-gap: 90px;
+  row-gap: 50px;
 }
 
 ul {
   display: flex;
   flex-direction: column;
-  gap: 30px;
+  gap: 18px;
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
+h3 {
+  margin: 0;
+  color: #00b0f0;
+  font-size: 25px;
+}
+
 a {
-  font-size: 30px;
+  font-size: 18px;
   color: #fff;
   transition: all 0.2s ease;
   text-decoration: none;
+  line-height: 1;
 }
 
 a:hover {
