@@ -2487,7 +2487,7 @@
   transition: all 0.7s ease;
 }
 
-.access-service-btn img:hover {
+.access-service-btn:hover img {
   transform: rotate(-35deg);
 }
 
@@ -2549,7 +2549,7 @@
   transition: all 0.7s ease;
 }
 
-.frame .union-4:hover {
+.frame .div-18:hover .union-4 {
   transform: rotate(-35deg);
 }
 

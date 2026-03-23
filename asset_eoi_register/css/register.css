@@ -2277,6 +2277,6 @@
   transition: all 0.7s ease;
 }
 
-.frame .union-6:hover {
+.frame .div-23:hover .union-6 {
   transform: rotate(-35deg);
 }
