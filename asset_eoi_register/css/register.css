@@ -2187,8 +2187,8 @@
   height: 17px;
   background-color: rgba(37, 37, 37, 0.9);
   display: inline-block;
-  -webkit-mask: url("/img/register/ic_terms_example.svg") no-repeat center / contain;
-  mask: url("/img/register/ic_terms_example.svg") no-repeat center / contain;
+  -webkit-mask: url("../../img/register/ic_terms_example.svg") no-repeat center / contain;
+  mask: url("../../img/register/ic_terms_example.svg") no-repeat center / contain;
   transition: all 0.6s ease;
 }
 
